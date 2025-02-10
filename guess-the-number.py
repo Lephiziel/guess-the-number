@@ -18,3 +18,4 @@ while user_number != random_number:
 
 print(f"✅Вы угадали, загаданное число было {random_number}✅")
 print(f"✅You're right, the hidden number is {random_number}✅")
+print(r"lephiziel@gmail.com - report about bugs")
