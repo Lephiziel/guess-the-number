@@ -1,6 +1,7 @@
 # 🎯 Guess The Number
 
 **Угадай число** – это простая консольная игра на Python, где игрок должен угадать случайное число.
+
 **Guess the Number** is a simple Python console game where the player must guess a random number.
 
 ## 📜 Описание | Description
