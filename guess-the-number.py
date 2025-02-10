@@ -12,9 +12,9 @@ user_number = int(input("Введите любое число | Enter random num
 
 while user_number != random_number:
     if user_number != random_number:
-        print("Вы не угадали, попробуйте снова")
-        print("You're wrong, try again")
+        print("❌Вы не угадали, попробуйте снова❌")
+        print("❌You're wrong, try again❌")
         user_number = int(input("Введите любое число | Enter random number: "))
 
-print(f"Вы угадали, загаданное число было {random_number}")
-print(f"You're right, the hidden number is {random_number}")
+print(f"✅Вы угадали, загаданное число было {random_number}✅")
+print(f"✅You're right, the hidden number is {random_number}✅")
