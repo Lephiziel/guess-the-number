@@ -7,7 +7,7 @@
 
 🇷🇺 Игроку дается несколько попыток угадать число, загаданное программой. После каждого ввода программа сообщает, больше или меньше загаданное число.
 
-🇬🇧 The player is provided with several functions that allow him to calculate the number guessed by the program. After each input of the program, a greater or lesser hidden number is reported.
+🇺🇸 The player is provided with several functions that allow him to calculate the number guessed by the program. After each input of the program, a greater or lesser hidden number is reported.
 
 ## 🚀 Установка | Installation
 
